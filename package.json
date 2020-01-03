@@ -1,0 +1,19 @@
+{
+  "name": "search-logger",
+  "version": "0.0.1",
+  "description": "WebExtension that logs Google searches and searchbox keypresses",
+  "main": "background_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacMe/search-logger.git"
+  },
+  "author": "Isaac Meers <hi@isaacmeers.be>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacMe/search-logger/issues"
+  },
+  "homepage": "https://github.com/IsaacMe/search-logger#readme"
+}
