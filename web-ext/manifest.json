@@ -6,6 +6,11 @@
   "icons": {
     "64": "icons/icon.png"
   },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "search-logger@isaacmeers.be"
+    }
+  },
   "background": {
     "scripts": [
       "background_script.js"
